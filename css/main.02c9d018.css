@@ -57,7 +57,7 @@ h2 {
 .container {
   margin-left: 40px;
   margin-right: auto;
-  min-width: 414px;
+  min-width: 514px;
   max-width: 1440px; }
 .menu-header {
   position: fixed;
@@ -117,7 +117,7 @@ h2 {
       font-weight: 400;
       font-size: 18px;
       letter-spacing: inherit; }
-  @media (max-width: 414px) {
+  @media (max-width: 514px) {
     .menu {
       /*flex-direction: column;*/
       justify-content: space-between;
@@ -243,7 +243,7 @@ footer {
     margin-top: 100px;
     margin-left: 100px;
     float: right; }
-  @media (max-width: 414px) {
+  @media (max-width: 514px) {
     .screen-text-1 {
       font-size: 35px;
       margin-top: 0;
@@ -375,7 +375,7 @@ footer {
   right: 0;
   transition: all .3s;
 }
-  @media (max-width: 414px) {
+  @media (max-width: 514px) {
     .card {
       width: auto; }
       .card-group {
@@ -448,7 +448,7 @@ footer {
           /*bottom: 11px;*/
           /*list-style-position: outside; */
         }
-  @media (max-width: 414px) {
+  @media (max-width: 514px) {
     .block2 {
       flex-direction: column;
     }
@@ -510,7 +510,7 @@ footer {
     background-image: url(../img/block3.3505911c.png);
     width: 708px;
     height: 435px; }
-  @media (max-width: 414px) {
+  @media (max-width: 514px) {
     .block3 {
       flex-direction: column;
       display: block; }
@@ -534,7 +534,7 @@ footer {
   display: flex;
   gap: 16px;
   justify-content: center; }
-  @media (max-width: 414px) {
+  @media (max-width: 514px) {
     .brands {
       flex-direction: column;
       align-items: center; } }
@@ -649,7 +649,7 @@ footer {
     border: none;
     cursor: pointer;
     font-size: 18px; }
-  @media (max-width: 414px) {
+  @media (max-width: 514px) {
     .form {
       flex-direction: column;
       align-items: center;
@@ -682,7 +682,7 @@ footer {
     width: 50%; }
     .pre-form-img img {
       width: 100%; }
-  @media (max-width: 414px) {
+  @media (max-width: 514px) {
     .pre-form-text {
       width: auto;
       padding: 20px;
